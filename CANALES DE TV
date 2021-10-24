@@ -19,7 +19,7 @@ https://mediacp.us:8081/nex21/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Caracol tv
 https://us-b4-p-e-by2.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/3csP3jVSTr-D1F-4lpxWng/stream/4d8be842-01da-485e-a090-34f2383ceb29:SCL/variant/01c530e4285fef58ab9499fabca254b4/bandwidth/1425600.m3u8?uid=beUAVBUbYVxM41HyhPicMpwgWg665OyS&sid=VlVqMJUaqQLkZ1JV96gvFWRXEA7rZejB&pid=HpmiSQPeExwsnPEAWezNCWfjACR4yI7j&ref=https%3A%2F%2Fwww.caracoltv.com%2F&without_cookies=false&dnt=true&ote=1635165107751&ot=THHwAH_fH_b_I24_Y641yw&es=us-b4-p-e-by2.cdn.mdstrm.com&proto=https&pz=us&aid=574462d1cab0f4d50866f001
 #EXTINF:-1,RCN
-https://stream-02.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZVqBTdgkO3_dYguFGWTiNN4)/dm/3/x7vyv0z/s/live-3.m3u8#cell=lnyc
+http://cdn.boxter.live:8081/regional/RCN8742/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyMSA2OjE3OjIyIFBNJmhhc2hfdmFsdWU9U3VZV3FkMlBlbDlzMHZ5VnBhN29hQT09JnZhbGlkbWludXRlcz0xMjA=
 #EXTINF:-1,Canal uno COLOMBIA
 http://138.117.84.82:80/co_canal_uno_sd/index.m3u8
 #EXTINF:-1,Star Life
