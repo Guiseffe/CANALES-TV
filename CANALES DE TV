@@ -14,8 +14,12 @@ https://us-b4-p-e-az1.cdn.mdstrm.com/live-stream-dai/ec85b4776cab428cac904251d14
 https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream/5d88df173853e7072f3f953f/publish/media_900.m3u8?aid=5d409041e10de808a34fce18&pid=2JH8sFv7Vzp0uWHibkrhGWYkoVeZeV0T&sid=h3fRkM20F1sOHAH0B8bTz8EYHC5RaXzQ&uid=6urOeQrvNZKz22E3X7vf7Lr5YIl3fkHq&es=us-b4-p-e-ft6.cdn.mdstrm.com&ote=1628259604169&ot=2Cedp60phBxFNoYgCuW2Rw&proto=https&pz=us
 #EXTINF:-1,SER TV
 https://stream-02.nyc.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSprQmbJbQo6xstHNIyGux814)/dm/3/x81cvsk/s/live-2.m3u8
+#EXTINF:-1,teletica
+https://stream-02.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO53bb-Dzw_fWFez1qO-6URb4)/dm/3/x29e3wg/s/live-3.m3u8
 #EXTINF:-1,NEXT TV 
 https://mediacp.us:8081/nex21/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ecuavisa
+https://us-b5-p-e-wo1.cdn.mdstrm.com/live-stream/603ea23f928cc5255563012c/publish/media_2500.m3u8?aid=60214bbd7267582b2467eff9&uid=iCmZia83kjbzRm0sHXqyzT6OyKqdQH0P&sid=JteDjlGQ19s42tZJLFe52IUmtEETuvHc&pid=NGfx2PWwZY9h9317F47gj3MZiO9Qtm4x&ref=https%3A%2F%2Fwww.ecuavisa.com%2F&without_cookies=false&dnt=true&es=us-b5-p-e-wo1.cdn.mdstrm.com&ote=1633019562320&ot=vZD0K4K4mWahxuaXwpM1Fg&proto=https&pz=us
 #EXTINF:-1,Caracol tv
 http://cdn.boxter.live:8081/regional/CARACOL8787/chunks.m3u8?nimblesessionid=12027419&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyMSA2OjE5OjQxIFBNJmhhc2hfdmFsdWU9bXhubENxazFjZ0lBQlcyV0lmNEtTZz09JnZhbGlkbWludXRlcz0xMjA=
 #EXTINF:-1,RCN
