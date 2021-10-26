@@ -16,7 +16,7 @@ https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream/5d88df173853e7072f3f953f/publis
 #EXTINF:-1,SER TV
 https://stream-02.nyc.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSprQmbJbQo6xstHNIyGux814)/dm/3/x81cvsk/s/live-2.m3u8
 #EXTINF:-1,teletica
-https://stream-02.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO53bb-Dzw_fWFez1qO-6URb4)/dm/3/x29e3wg/s/live-3.m3u8
+https://stream-01.nyc.dailymotion.com:443/sec(jlR0lJnpjfic8bXdlVDO53bb-Dzw_fWFez1qO-6URb4)/dm/3/x29e3wg/s/live-3.m3u8
 #EXTINF:-1,NEXT TV 
 https://mediacp.us:8081/nex21/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ecuavisa
@@ -31,6 +31,10 @@ http://138.117.84.82:80/co_canal_uno_sd/index.m3u8
 http://208.91.104.210:25461/live/manline/jvpxhBvR81/307.m3u8
 #EXTINF:-1,WAPA 2 PUERTO RICO
 http://38.18.238.35:4153/0000/CH=%C2%A0PR-%C2%A0WAPA2/chunks.m3u8
+#EXTINF:-1,CostaRICA Canal 11
+http://tv.rylco.com:25461/live/ticatv/lpcLpc123$2019/3.m3u8
+#EXTINF:-1,CostaRICA Repetrel 6
+http://tv.rylco.com:25461/live/ticatv/lpcLpc123$2019/2.m3u8
 #EXTINF:-1,ES: LA 1 ᴴᴰ
 http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/714
 #EXTINF:-1,ES: LA 1
