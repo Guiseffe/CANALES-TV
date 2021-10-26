@@ -31,6 +31,8 @@ http://138.117.84.82:80/co_canal_uno_sd/index.m3u8
 http://208.91.104.210:25461/live/manline/jvpxhBvR81/307.m3u8
 #EXTINF:-1,WAPA2/puertorico
 http://38.18.238.35:4153/0000/CH=%C2%A0PR-%C2%A0WAPA2/chunks.m3u8
+#EXTINF:-1,TELEMUNDO/PuErTOrIcO
+http://38.18.238.42:4153/0000/CH=%C2%A0PR-WKAQ/chunks.m3u8
 #EXTINF:-1,Canal11/cos
 http://tv.rylco.com:25461/live/ticatv/lpcLpc123$2019/3.m3u8
 #EXTINF:-1,Repetrel/cos
