@@ -7,9 +7,9 @@ https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/60580
 #EXTINF:-1,TV MAX 2
 https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/profile_3/chunklist_dvr.m3u8
 #EXTINF:-1,TELEMETRO
-https://mdstrm.com/live-stream-playlist/5d88dd2229b0890723df2165.m3u8?uid=pcWeQAP3y6iwMzmKPvVzuqVoDbCbWAPN&sid=sLfUyTJIdcDFQkfUpmkZNjmF8D0HLuw6&pid=eUp41vRWsGZe7pp5TpOwt9W3n4wbewC5&an=screen&at=web-app&av=v5.2.190&ref=https%3A%2F%2Fgo.medcom.com.pa%2F&res=399x216&without_cookies=false&start=2021-10-24T14:00:00.000Z&dvr=true&dnt=true&access_token=9Q2iplIuXcVQyaao5tQoN7D1D3VujrBmtwWCWmRUtzhey41hSS6fpbOmEOoUj62e6ODUkF6fFzr&type=dvr&adInsertionSessionId=413543b6-d0dd-4ea6-89b0-f30547c36721
+http://162.244.82.52:8010/hls/telem.m3u8
 #EXTINF:-1,RPC
-https://us-b4-p-e-az1.cdn.mdstrm.com/live-stream-dai/ec85b4776cab428cac904251d14ed492/manifest/f624fec49dadc88894ebeff1d974eab019af7757/5d88d659120a717cf93ce620/14daa380-5241-485a-a796-284d102f05d0/3.m3u8?aid=5d409041e10de808a34fce18&uid=7XMTWyiltidq36pANl28YxPlBbi7dF9t&sid=GG63sJNiKeQnBjT0yoejhIsItZK5Ugfl&pid=PImYcn3Rwk4Tqo8AXV0HxsFoyhbj0H4j&ref=https%3A%2F%2Fwww.rpctv.com%2F&without_cookies=false&dnt=true&es=us-b4-p-e-ft6.cdn.mdstrm.com&ote=1635129039005&ot=F3N2ao3orn-wg0JT-xiZ0w&proto=https&pz=us
+http://162.244.82.52:8010/hls/rpc.m3u8
 #EXTINF:-1,OYE TV
 https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream/5d88df173853e7072f3f953f/publish/media_900.m3u8?aid=5d409041e10de808a34fce18&pid=2JH8sFv7Vzp0uWHibkrhGWYkoVeZeV0T&sid=h3fRkM20F1sOHAH0B8bTz8EYHC5RaXzQ&uid=6urOeQrvNZKz22E3X7vf7Lr5YIl3fkHq&es=us-b4-p-e-ft6.cdn.mdstrm.com&ote=1628259604169&ot=2Cedp60phBxFNoYgCuW2Rw&proto=https&pz=us
 #EXTINF:-1,SER TV
@@ -23,11 +23,13 @@ https://us-b5-p-e-wo1.cdn.mdstrm.com/live-stream/603ea23f928cc5255563012c/publis
 #EXTINF:-1,Caracol tv
 http://89.163.144.105:25461/coltvAPPTVAPP/s8d8asC5A5DWE9DFWEDSDxcsdwe/1205
 #EXTINF:-1,RCN
-http://cdn.boxter.live:8081/regional/RCN8742/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyMSA2OjE3OjIyIFBNJmhhc2hfdmFsdWU9U3VZV3FkMlBlbDlzMHZ5VnBhN29hQT09JnZhbGlkbWludXRlcz0xMjA=
+http://89.163.144.105:25461/coltvAPPTVAPP/s8d8asC5A5DWE9DFWEDSDxcsdwe/1208
 #EXTINF:-1,Canal uno COLOMBIA
 http://138.117.84.82:80/co_canal_uno_sd/index.m3u8
-#EXTINF:-1,Star Life
-http://cdn.boxter.live:8081/cine/STAR_LIFE212/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyMSA2OjAxOjAwIFBNJmhhc2hfdmFsdWU9bFZtUHVVNjlqRkRGemZHdmVCOE10UT09JnZhbGlkbWludXRlcz0xMjA=
+#EXTINF:-1,WAPA PUERTO RICO
+http://208.91.104.210:25461/live/manline/jvpxhBvR81/307.m3u8
+#EXTINF:-1,WAPA 2 PUERTO RICO
+http://38.18.238.35:4153/0000/CH=%C2%A0PR-%C2%A0WAPA2/chunks.m3u8
 #EXTINF:-1,ES: LA 1 ᴴᴰ
 http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/714
 #EXTINF:-1,ES: LA 1
