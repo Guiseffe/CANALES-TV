@@ -37,6 +37,8 @@ http://tv.rylco.com:25461/live/ticatv/lpcLpc123$2019/3.m3u8
 http://tv.rylco.com:25461/live/ticatv/lpcLpc123$2019/2.m3u8
 #EXTINF:-1,Telered/cos
 http://k4.usastreams.com:80/ARBtv/teleplus/chunklist_w1597251336.m3u8
+#EXTINF:-1,Repetrel/ANIMAL PLANET
+http://rs2.hp5trg14.club:80/1YAOKQOPCRIT09X4BMYY/qts/m_4_3_.m3u8
 #EXTINF:-1,ES: LA 1 ᴴᴰ
 http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/714
 #EXTINF:-1,ES: LA 1
