@@ -21,7 +21,7 @@ https://mediacp.us:8081/nex21/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ecuavisa
 https://us-b5-p-e-wo1.cdn.mdstrm.com/live-stream/603ea23f928cc5255563012c/publish/media_2500.m3u8?aid=60214bbd7267582b2467eff9&uid=iCmZia83kjbzRm0sHXqyzT6OyKqdQH0P&sid=JteDjlGQ19s42tZJLFe52IUmtEETuvHc&pid=NGfx2PWwZY9h9317F47gj3MZiO9Qtm4x&ref=https%3A%2F%2Fwww.ecuavisa.com%2F&without_cookies=false&dnt=true&es=us-b5-p-e-wo1.cdn.mdstrm.com&ote=1633019562320&ot=vZD0K4K4mWahxuaXwpM1Fg&proto=https&pz=us
 #EXTINF:-1,Caracol tv
-http://cdn.boxter.live:8081/regional/CARACOL8787/chunks.m3u8?nimblesessionid=12027419&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyMSA2OjE5OjQxIFBNJmhhc2hfdmFsdWU9bXhubENxazFjZ0lBQlcyV0lmNEtTZz09JnZhbGlkbWludXRlcz0xMjA=
+http://89.163.144.105:25461/coltvAPPTVAPP/s8d8asC5A5DWE9DFWEDSDxcsdwe/1205
 #EXTINF:-1,RCN
 http://cdn.boxter.live:8081/regional/RCN8742/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjQvMjAyMSA2OjE3OjIyIFBNJmhhc2hfdmFsdWU9U3VZV3FkMlBlbDlzMHZ5VnBhN29hQT09JnZhbGlkbWludXRlcz0xMjA=
 #EXTINF:-1,Canal uno COLOMBIA
