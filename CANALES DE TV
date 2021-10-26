@@ -1,40 +1,42 @@
 #EXTINF
-#EXTINF:-1,TVN 2
-https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/f726ba979e3d4ef88edaa486960eca2c/playlist_dvr_ssaiM.m3u8
-#EXTINF:-1,TV MAX
+#EXTINF:-1,TVN2,panama
+https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/profile_0/chunklist_dvr.m3u8
+#EXTINF:-1,TVMAX,Panama
 https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/profile_3/chunklist_dvr.m3u8
-#EXTINF:-1,TV MAX 2
+#EXTINF:-1,TVmax/panama
 https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/profile_3/chunklist_dvr.m3u8
 #EXTINF:-1,TELEMETRO
 http://162.244.82.52:8010/hls/telem.m3u8
-#EXTINF:-1,TVN
+#EXTINF:-1,TVN/panama
 https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/profile_0/chunklist_dvr.m3u8
-#EXTINF:-1,RPC
+#EXTINF:-1,RPC/panama
 http://162.244.82.52:8010/hls/rpc.m3u8
-#EXTINF:-1,OYE TV
+#EXTINF:-1,OYEtv/panama
 https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream/5d88df173853e7072f3f953f/publish/media_900.m3u8?aid=5d409041e10de808a34fce18&pid=2JH8sFv7Vzp0uWHibkrhGWYkoVeZeV0T&sid=h3fRkM20F1sOHAH0B8bTz8EYHC5RaXzQ&uid=6urOeQrvNZKz22E3X7vf7Lr5YIl3fkHq&es=us-b4-p-e-ft6.cdn.mdstrm.com&ote=1628259604169&ot=2Cedp60phBxFNoYgCuW2Rw&proto=https&pz=us
-#EXTINF:-1,SER TV
+#EXTINF:-1,SERtv/panama
 https://stream-02.nyc.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSprQmbJbQo6xstHNIyGux814)/dm/3/x81cvsk/s/live-2.m3u8
-#EXTINF:-1,teletica
+#EXTINF:-1,teletica/costarica
 https://stream-01.nyc.dailymotion.com:443/sec(jlR0lJnpjfic8bXdlVDO53bb-Dzw_fWFez1qO-6URb4)/dm/3/x29e3wg/s/live-3.m3u8
-#EXTINF:-1,NEXT TV 
+#EXTINF:-1,NEXtv/panama
 https://mediacp.us:8081/nex21/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ecuavisa
+#EXTINF:-1,ecuavisa/ecuador
 https://us-b5-p-e-wo1.cdn.mdstrm.com/live-stream/603ea23f928cc5255563012c/publish/media_2500.m3u8?aid=60214bbd7267582b2467eff9&uid=iCmZia83kjbzRm0sHXqyzT6OyKqdQH0P&sid=JteDjlGQ19s42tZJLFe52IUmtEETuvHc&pid=NGfx2PWwZY9h9317F47gj3MZiO9Qtm4x&ref=https%3A%2F%2Fwww.ecuavisa.com%2F&without_cookies=false&dnt=true&es=us-b5-p-e-wo1.cdn.mdstrm.com&ote=1633019562320&ot=vZD0K4K4mWahxuaXwpM1Fg&proto=https&pz=us
-#EXTINF:-1,Caracol tv
+#EXTINF:-1,Caracol/colombia
 http://89.163.144.105:25461/coltvAPPTVAPP/s8d8asC5A5DWE9DFWEDSDxcsdwe/1205
-#EXTINF:-1,RCN
+#EXTINF:-1,RCN/colombia
 http://89.163.144.105:25461/coltvAPPTVAPP/s8d8asC5A5DWE9DFWEDSDxcsdwe/1208
-#EXTINF:-1,Canal uno COLOMBIA
+#EXTINF:-1,Canaluno/COLombia
 http://138.117.84.82:80/co_canal_uno_sd/index.m3u8
-#EXTINF:-1,WAPA PUERTO RICO
+#EXTINF:-1,WAPA/PUERTO RICO
 http://208.91.104.210:25461/live/manline/jvpxhBvR81/307.m3u8
-#EXTINF:-1,WAPA 2 PUERTO RICO
+#EXTINF:-1,WAPA2/puertorico
 http://38.18.238.35:4153/0000/CH=%C2%A0PR-%C2%A0WAPA2/chunks.m3u8
-#EXTINF:-1,CostaRICA Canal 11
+#EXTINF:-1,Canal11/cos
 http://tv.rylco.com:25461/live/ticatv/lpcLpc123$2019/3.m3u8
-#EXTINF:-1,CostaRICA Repetrel 6
+#EXTINF:-1,Repetrel/cos
 http://tv.rylco.com:25461/live/ticatv/lpcLpc123$2019/2.m3u8
+#EXTINF:-1,Telered/cos
+http://k4.usastreams.com:80/ARBtv/teleplus/chunklist_w1597251336.m3u8
 #EXTINF:-1,ES: LA 1 ᴴᴰ
 http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/714
 #EXTINF:-1,ES: LA 1
