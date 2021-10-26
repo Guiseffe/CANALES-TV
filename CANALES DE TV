@@ -6,7 +6,7 @@ https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/60580
 #EXTINF:-1,TVmax/panama
 https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/profile_3/chunklist_dvr.m3u8
 #EXTINF:-1,TELEMETRO
-http://162.244.82.52:8010/hls/telem.m3u8
+http://android.bugly.qq.com:80/rqd/async?aid=c193da1c-91d9-4267-aab6-0ff9884997ba
 #EXTINF:-1,TVN/panama
 https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/profile_0/chunklist_dvr.m3u8
 #EXTINF:-1,RPC/panama
